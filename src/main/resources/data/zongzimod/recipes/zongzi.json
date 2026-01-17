@@ -12,8 +12,7 @@
     }
   ],
   "result": {
-    "id": "zongzimod:zongzi",
+    "item": "zongzimod:zongzi",
     "count": 1
-  },
-  "show_notification": true  
+  }
 }

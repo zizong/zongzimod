@@ -19,5 +19,6 @@ public class ZongziMod implements ModInitializer {
         
         // 注册物品
         ModItems.registerItems();
+        
     }
 }

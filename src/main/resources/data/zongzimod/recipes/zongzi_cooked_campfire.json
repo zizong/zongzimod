@@ -3,9 +3,7 @@
   "ingredient": {
     "item": "zongzimod:zongzi"
   },
-  "result": {
-    "id": "zongzimod:zongzi_cooked"
-  },
-  "experience": 0.35,
-  "cookingtime": 600
+  "result": "zongzimod:zongzi_cooked",
+  "experience": 0.15,
+  "cookingtime": 200
 }
